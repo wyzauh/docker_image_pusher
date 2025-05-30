@@ -1,1 +1,1 @@
-ascendai/cann:8.0.0-910b-ubuntu22.04-py3.10
+swr.cn-east-317.qdrgznjszx.com/donggang/llama-factory-ascend910:cann8-py310-torch2.2.0-ubuntu18.04
