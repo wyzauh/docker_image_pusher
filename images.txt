@@ -1,1 +1,1 @@
-swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:2.0.T3-800I-A2-py311-openeuler24.03-lts
+volcanosh/dist-mnist-tf-example:0.0.1
