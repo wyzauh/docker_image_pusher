@@ -1,3 +1,2 @@
 activeeon/tensorboard:2.2.0
-
---platform linux/arm64 tensorboard:v2.6.1-arm
+--platform linux/arm64
