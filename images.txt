@@ -1,2 +1,2 @@
 activeeon/tensorboard:2.2.0
---platform linux/arm64
+--platform=linux/arm64 tensorboard:2.2.0-arm64
