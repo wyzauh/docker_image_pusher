@@ -1,1 +1,1 @@
---platform=linux/arm64 hkube/tensorboard:v2.6.1
+hiyouga/llamafactory:0.9.4
